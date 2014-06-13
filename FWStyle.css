@@ -227,6 +227,10 @@ form input{
 	margin-bottom: 0px;
 	text-align: center;
 }
+#info li a:hover{
+	color: lightgray;
+	
+	}
 #footer p {
 	margin-top: 10px;
 	font-size:.75em;
