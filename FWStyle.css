@@ -184,7 +184,7 @@ form input{
 	-webkit-border-radius:15%;
 	-moz-border-radius: 15%;
 	border-radius: 15%;
-	display: none;
+	/*display:none;*/
 
 }
 #register form {
