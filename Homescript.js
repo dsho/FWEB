@@ -1,2 +1,6 @@
-$(document).ready(1000,{
+$(document).ready(function(){
+	$("#signup").click(function(){
+		$("#register").show();
+		$("#signup").hide();
+	});
 });
